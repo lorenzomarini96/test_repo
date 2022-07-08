@@ -6,10 +6,20 @@
 Welcome to test_repo's documentation!
 =====================================
 
+Qui ci infolo un po' di testo. Giusto per riempire gli spazi.
+
+Istallazione
+------------
+
+Istruzioni per istallare
+
+
 .. toctree::
    :maxdepth: 2
     
-   api 
+   api
+   
+   nuova_prova
        
       
 Indices and tables
