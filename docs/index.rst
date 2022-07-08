@@ -19,7 +19,6 @@ Istruzioni per istallare
     
    api
    
-   nuova_prova
        
       
 Indices and tables
