@@ -19,14 +19,8 @@ Modules
 
 .. toctree::
    :maxdepth: 2
-    
-   prova
    
-   nuova_prova
-   
-   nuova_prova
-   
-   nuova_prova
+   api
    
        
       
